@@ -7,3 +7,4 @@
   sudo apt install ansible -y
   sudo apt install python3-argcomplete -y
   sudo activate-global-python-argcomplete3
+
